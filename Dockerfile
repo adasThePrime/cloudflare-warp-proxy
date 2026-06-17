@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.04
 
 ARG GOST_VERSION=3.2.5
 ARG TARGETARCH
